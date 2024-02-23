@@ -1,6 +1,7 @@
 Stein Portfolio
-v1.2
+v1.3
 
-Update 1.2 :
-- Add download CV button
-- Fix about text
+Update 1.3 :
+- Add expertise section
+- change body background color
+- change header size
