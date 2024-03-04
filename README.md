@@ -1,6 +1,9 @@
 Stein Portfolio
-v1.4
+v1.5
 
-Update v1.4:
-- add dark mode feature
-- add social media link at photo
+Update v1.5:
+- adding footer
+- adding some animations
+
+patch v1.5.1:
+- fixing expertise indexing
