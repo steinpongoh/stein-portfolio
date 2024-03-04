@@ -11,3 +11,6 @@ patch v1.5.1:
 patch v1.5.2
 - adding scroll progres animation
 - adding website entry animation
+
+patch v1.5.3
+- fixing website entry animation bug
