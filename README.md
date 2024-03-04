@@ -7,3 +7,7 @@ Update v1.5:
 
 patch v1.5.1:
 - fixing expertise indexing
+
+patch v1.5.2
+- adding scroll progres animation
+- adding website entry animation
