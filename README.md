@@ -14,3 +14,7 @@ patch v1.5.2
 
 patch v1.5.3
 - fixing website entry animation bug
+
+patch v1.5.4
+- changing img type to webp
+- optimize based on lighthouse report
