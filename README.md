@@ -18,3 +18,10 @@ patch v1.5.3
 patch v1.5.4
 - changing img type to webp
 - optimize based on lighthouse report
+
+Built with :
+- Reactjs
+- Tailwind Css
+- Framer Motion
+- Unicons
+- Netlify Hosting
